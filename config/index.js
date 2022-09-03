@@ -7,7 +7,7 @@ export const config = {
   APP_ID: "wxec51ab546994c3ca",
 
   // 公众号APP_SECRET
-  APP_SECRET: "5beb81335c4c80f2a2c387224c726bfd",
+  APP_SECRET: "65772f3d07c708ed2dd8e954e214c281",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -31,7 +31,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oggJz6BFiPESX--Ef0cfkI8c9pB8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "e2QSwaYGHQHwho-KghYUosb9nZ5BMa_GCncMOd0nqDw",
+      useTemplateId: "1_t2Dt8m3IGTn-7nGR45bs_fxMVfOFvQ_mp_Sm6JxKY",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }, 
