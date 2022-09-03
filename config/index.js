@@ -63,7 +63,7 @@ export const config = {
   // 所在省份
   PROVINCE: "浙江",
   // 所在城市
-  CITY: "慈溪市",
+  CITY: "宁波",
 
   /** 重要节日相关 */
 
