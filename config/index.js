@@ -35,6 +35,16 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "http://loveyue1.bigeone.cn/"
     }, 
+    {
+      // 想要发送的人的名字
+      name: "宝贝儿",
+      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: "oggJz6C38eypLxKVfHzZNuYlH5Ks",
+      // 你想对他发送的模板消息的模板ID
+      useTemplateId: "Q_C-tVxQhJajxGonXBgCkTriIU_qyJPyNYCwc1OW0HI",
+      // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
+      openUrl: "http://loveyue1.bigeone.cn/"
+    }, 
   ],
 
   /**
